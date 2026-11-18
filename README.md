@@ -7,3 +7,7 @@ c++ dsa practice from the early days, organized by day.
 ```bash
 g++ "DAY 3/armstrong_numbers_1_to_n.cpp" -o armstrong && ./armstrong
 ```
+
+
+## Consistency & Discipline
+This project is maintained regularly to ensure documentation clarity and code quality. Small, daily improvements are prioritized over large, infrequent updates.
